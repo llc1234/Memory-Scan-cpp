@@ -5,7 +5,7 @@
 
 
 int main() {
-    const char* WindowTitle = "Days left until summer break";
+    const char* WindowTitle = "Windows Title";
 
     HWND hwnd = FindWindowA(0, WindowTitle);
     DWORD pid;
